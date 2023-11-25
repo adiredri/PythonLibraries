@@ -3,6 +3,6 @@ This repository contains my research on Python libraries for data analysis: pand
 
 ## Languages
 
-### numpy <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="25px">
-### pandas <img src="[https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png)" width="25px">
-### matplotlib <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="25px">
+### numpy <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="75px">
+### pandas <img src="[https://i.pinimg.com/736x/28/ce/bf/28cebfa3c75ff7815999b0c81a826af6.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png)" width="75px">
+### matplotlib <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="75px">
