@@ -1,7 +1,7 @@
 # PythonLibraries
 This repository contains my research on Python libraries for data analysis: pandas, numpy, matplotlib, seaborn, plotly and more..
 
-## Languages
+## Tools, Languages & Libraries
 
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="50px" height="60px"/></a>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
