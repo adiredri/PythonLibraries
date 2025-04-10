@@ -46,7 +46,6 @@ The goal is to provide a concise and accessible reference for students, develope
 
 This repository was built as a practical exercise and personal reference while learning Python data libraries.  
 It is structured to allow easy navigation, testing, and review of concepts across notebooks.  
-Each notebook is standalone and can be run interactively via Jupyter or Colab.
 
 ---
 
