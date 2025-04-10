@@ -50,7 +50,7 @@ Each notebook is standalone and can be run interactively via Jupyter or Colab.
 
 ---
 
-## 👤 Author
+## Authors
 
 - [Adir Edri](https://github.com/adiredri)
 - [Ofir Almog](https://github.com/Ofigu)
